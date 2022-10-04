@@ -1,0 +1,43 @@
+body{
+    color:white;
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display:flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding:16px ;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.caixa{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px 50px;
+}
+
+nav a:hover{
+    color: #5bbe42;
+} 
+
+.container{
+    display: flex;
+    width: 35px;
+    height: 35px;
+    margin: 20px;
+}
+
+.whats{
+    display: flex;
+    width: 35px;
+    height: 35px;
+    margin: 20px;
+}
+
